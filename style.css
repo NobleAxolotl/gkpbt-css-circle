@@ -1,7 +1,13 @@
 .blue {
 			background-color:blue
 }
+<<<<<<< HEAD
 
+=======
+.red {
+			background-color:red
+}
+>>>>>>> feature-add-color
 .circle{
 			border-radius:50%;
 			width:500px;
